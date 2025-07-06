@@ -4,7 +4,7 @@ A simple counter app built with **React** and **Vite**.
 
 ## 🔗 Live Demo
 
-[Click here to connect](http://counter-app-et-bay.vercel.app)
+[Click here to connect](http://counter-app-eta-bay.vercel.app)
 
 ## 🛠️ Built With
 
